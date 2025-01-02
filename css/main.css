@@ -307,7 +307,7 @@ nav {
   left: -200px;
   width: 720px;
   height: 720px;
-  background: url(../../assets/icon/logo-light-gray-2.svg) no-repeat;
+  background: url(../assets/icon/logo-light-gray-2.svg) no-repeat;
   z-index: -1;
 }
 .dashboard__title::before {
@@ -317,7 +317,7 @@ nav {
   left: 98%;
   width: 1000px;
   height: 1000px;
-  background: url(../../assets/icon/logo-light-gray.svg) no-repeat;
+  background: url(../assets/icon/logo-light-gray.svg) no-repeat;
   z-index: -1;
 }
 .dashboard__text {
@@ -360,7 +360,7 @@ nav {
   position: absolute;
   top: -80px;
   left: 70px;
-  background: url("../../assets/img/main-screen.png") no-repeat;
+  background: url("../assets/img/main-screen.png") no-repeat;
   width: 874px;
   height: 625px;
   box-shadow: 0 5px 5px -15px rgba(25, 42, 89, 0.2);
@@ -406,7 +406,7 @@ nav {
     top: 0;
     left: 0;
     visibility: visible;
-    background: url("../../assets/icon/menu-icon.svg") no-repeat;
+    background: url("../assets/icon/menu-icon.svg") no-repeat;
   }
   .header__menu--side {
     position: absolute;
