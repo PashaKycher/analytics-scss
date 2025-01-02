@@ -307,7 +307,7 @@ nav {
   left: -200px;
   width: 720px;
   height: 720px;
-  background: url(../assets/icon/logo-light-gray-2.svg) no-repeat;
+  background: url('../assets/icon/logo-light-gray-2.svg') no-repeat;
   z-index: -1;
 }
 .dashboard__title::before {
@@ -317,7 +317,7 @@ nav {
   left: 98%;
   width: 1000px;
   height: 1000px;
-  background: url(../assets/icon/logo-light-gray.svg) no-repeat;
+  background: url('../assets/icon/logo-light-gray.svg') no-repeat;
   z-index: -1;
 }
 .dashboard__text {
